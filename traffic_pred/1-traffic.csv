@@ -43,7 +43,6 @@ Zion Area,Zion,Makueni,Mombasa - Nairobi highway ,Bus hit a motorbike,1.0,2023.0
 Migori Town,Migori Town,Migori,Migori-Kisii-Isebania Highway,"Lorry had faulty brakes, lost control and rammed into several cars and pedestrians",2.0,2023.0,5.0,10.0
 Eka Tano,Kikuyu,Kiambu,Nakuru - Nairobi highway ,"Vehicle lost control, hitting other vehocles on the road",2.0,2023.0,7.0,15.0
 Josa,Mwatate,Taita Taveta,Mombasa - Nairobi highway ,Head on Collision,10.0,2023.0,4.0,16.0
-Masaba,Masaba,Kisii,Kisii Keroka Road,Head on Collision,3.0,2023.0,4.0,2.0
 Gitaru,Gitaru,Kiambu,Nakuru - Nairobi highway ,Driver lost control and hit barrier,0.0,2023.0,9.0,18.0
 Malili,Malili,Makueni,Mombasa - Nairobi highway ,"Involved a truck, lorry and saloon car",0.0,2023.0,9.0,8.0
 Naivasha,Marula Farm,Naivasha,Nairobi - Nakuru highway ,Personal vehicle rammed onto an oncoming bus,3.0,2023.0,8.0,20.0
@@ -58,7 +57,6 @@ Roka,Roka,Kilifi,Kilifi Malindi Road,Matatus collided head on,7.0,2021.0,12.0,12
 Tuthamba,Kirinyaga,Kirinyaga,Sagana Kagio Road,Matatu collided head on with a saloon car,0.0,2021.0,12.0,3.0
 Migaa,Mau Hills,Nakuru,Nakuru Eldoret highway,Matatu driver lost control and hit a lorry,3.0,2023.0,6.0,24.0
 Sachangwan,Sachangwan,Nakuru,Nakuru Eldoret highway,Matatu hit a bump and veered off the road,5.0,2023.0,5.0,15.0
-Mau Summit,Kuresoi North,Nakuru,Nakuru Eldoret highway,Head on Collision,1.0,2023.0,4.0,21.0
 Naivasha,Naivasha,Nakuru,Nakuru - Nairobi highway ,Matatu collided with a lorry,5.0,2023.0,4.0,18.0
 Amabuko,Kroka Town,Kisii,Kisii Keroka Road,Matatu collided with a trailer,5.0,2023.0,4.0,1.0
 Kayole Bridge,Nakuru,Nakuru,Nakuru - Nairobi highway ,Bus collided with a matatu,18.0,2023.0,3.0,30.0
@@ -70,7 +68,6 @@ Mamboleo,Mamboleo,Kisumu,Kakamega Kisumu Road,Bus veered off the road and landed
 Kikopey,Kikopey,Nakuru,Nakuru - Nairobi highway ,A matatu rammed into a lorry,7.0,2023.0,1.0,26.0
 IIbisil Towm,IIbisil,Kajiado,Namanga Road,Sallon car rammed iinto a lorry,3.0,2023.0,9.0,8.0
 Coptic Round,Coptic,Kisumu,Kisumu Kakamega road,Truck lost control and overturned,3.0,2022.0,8.0,30.0
-Koru,Koru,Kisumu,Kisumu Kakamega road,Bus rolled as it tried avoiding collision with a motorbike,0.0,2022.0,7.0,16.0
 Taru,Kwale,Kwale,Mombasa - Nairobi highway ,Matatu collided with an oncoming trailer,18.0,2023.0,7.0,8.0
 Kanyonyoo Market,Kanyonyoo,Kitui,Thika Kitui Highway,Bus rammed into a saloon car,7.0,2023.0,6.0,8.0
 Kanyonyoo juction,Kanyonyoo,Kitui,Thika Kitui Highway,Matatu lost control and rolled over,11.0,2022.0,6.0,5.0

@@ -1,0 +1,78 @@
+accident-details,total-people-confirmed-dead,year,month,day,County_Bomet,County_Homabay,County_Isiolo,County_Kajiado,County_Kakamega,County_Kiambu,County_Kilifi,County_Kirinyaga,County_Kisii,County_Kisumu,County_Kitui,County_Kwale,County_Makueni,County_Migori,County_Murang'a,County_Muranga,County_Nairobi,County_Nairobi ,County_Naivasha,County_Nakuru,County_Narok,County_Taita Taveta,County_Tharaka Nithi,County_Turkana,County_Uansin Gishi,County_Vihiga
+Head on Collision,4.0,2023.0,8.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vehicle and motorcycle collision,1.0,2023.0,8.0,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Head on Collision,4.0,2023.0,7.0,25.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Head on Collision,3.0,2022.0,12.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Run over,1.0,2022.0,12.0,1.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Car hit a stationary lorry,5.0,2022.0,8.0,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Driver lost control and swerved off the bridge,6.0,2022.0,7.0,27.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Vehicle rammed into a lorry,7.0,2022.0,7.0,28.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Vehicle rolled into the bridge,4.0,2022.0,6.0,28.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Vehicle rolled into the river,5.0,2021.0,9.0,21.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Vehicle rolled into the bridge,4.0,2021.0,9.0,27.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Driver lost control and rammed into pillar,4.0,2020.0,9.0,27.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Head on Collision,3.0,2021.0,2.0,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Personal vehicle rammed onto an oncoming bus,2.0,2023.0,8.0,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Vehicle rolled into the river,3.0,2020.0,8.0,17.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Matatu collided head on with an oncoming truck,4.0,2023.0,9.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head on collision Matatu and lorry,6.0,2023.0,4.0,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Matatu and Lorry head on collision,12.0,2023.0,9.0,7.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lorry failed brakes and rammed into four matatus and a saloon car,52.0,2023.0,6.0,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Matatu collided with a tractor,4.0,2022.0,9.0,21.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matatu and truck head on collision,3.0,2021.0,9.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bodaboda rider hit by matatu,3.0,2023.0,9.0,27.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus lost control and rolled,3.0,2022.0,6.0,15.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vehicle lost control nd rolled,3.0,2021.0,8.0,29.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Head on collision ,3.0,2023.0,8.0,29.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head on collision,3.0,2021.0,8.0,25.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Matatu and truck head on collision,1.0,2023.0,7.0,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Saloom car rolled,3.0,2023.0,1.0,13.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bus lost control and rolled into a ditch,7.0,2023.0,5.0,22.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shuttle rammed into a lorry,20.0,2022.0,9.0,1.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Matatu hit a bump, veered off the road and landed into a ditch",5.0,2023.0,5.0,15.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Motorist crashed into toll station ,1.0,2022.0,7.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Driver lost control and landed into a ditch,7.0,2023.0,5.0,5.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus and lorry collision,6.0,2023.0,6.0,24.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus collided with matatu,14.0,2023.0,3.0,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Matatu driver lot ontrol and hit a lorry,3.0,2023.0,6.0,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Vehicle lost control nd rolled,3.0,2021.0,8.0,29.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Vehicle veered off rhe road after tyre burst,2.0,2023.0,9.0,27.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus collided with a saloon car,0.0,2023.0,9.0,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Driver tried to overtake, rammed into a trailer and collided with a matatu",1.0,2023.0,8.0,28.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus hit a motorbike,1.0,2023.0,8.0,28.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lorry had faulty brakes, lost control and rammed into several cars and pedestrians",2.0,2023.0,5.0,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Vehicle lost control, hitting other vehocles on the road",2.0,2023.0,7.0,15.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head on Collision,10.0,2023.0,4.0,16.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Driver lost control and hit barrier,0.0,2023.0,9.0,18.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Involved a truck, lorry and saloon car",0.0,2023.0,9.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Personal vehicle rammed onto an oncoming bus,3.0,2023.0,8.0,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Bus burst into flames,0.0,2023.0,8.0,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+matatu collided with a truck,2.0,2023.0,8.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+truck collided head on with another truck,3.0,2023.0,7.0,25.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Head on Collision,1.0,2022.0,12.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bus lost control and landed in a ditch,0.0,2023.0,7.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bus overturned,0.0,2022.0,4.0,26.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matatu collided with an on coming lorry,3.0,2021.0,12.0,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Matatus collided head on,7.0,2021.0,12.0,12.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matatu collided head on with a saloon car,0.0,2021.0,12.0,3.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matatu driver lost control and hit a lorry,3.0,2023.0,6.0,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Matatu hit a bump and veered off the road,5.0,2023.0,5.0,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Matatu collided with a lorry,5.0,2023.0,4.0,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Matatu collided with a trailer,5.0,2023.0,4.0,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus collided with a matatu,18.0,2023.0,3.0,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bus overturned,0.0,2023.0,3.0,31.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Matatu collided with a lorry,2.0,2023.0,4.0,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Truck failed brakes and ran into ither vehicles,8.0,2023.0,8.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Driver swerved to avoid on hitting a camel on the road and lost control,14.0,2023.0,2.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Bus veered off the road and landed in a ditch,0.0,2023.0,1.0,29.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A matatu rammed into a lorry,7.0,2023.0,1.0,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Sallon car rammed iinto a lorry,3.0,2023.0,9.0,8.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Truck lost control and overturned,3.0,2022.0,8.0,30.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matatu collided with an oncoming trailer,18.0,2023.0,7.0,8.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus rammed into a saloon car,7.0,2023.0,6.0,8.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matatu lost control and rolled over,11.0,2022.0,6.0,5.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bus lost control and rolled over,1.0,2022.0,6.0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Car rammed into a trailer,1.0,2022.0,5.0,31.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Truck driver collided with an oncoming matatu,1.0,2022.0,5.0,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Car rammed into a lorry,4.0,2022.0,2.0,28.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+matatu collided with a truck,2.0,2023.0,8.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
